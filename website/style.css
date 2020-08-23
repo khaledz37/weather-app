@@ -1,0 +1,69 @@
+html{
+    background-color: skyblue;
+}
+body{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: tomato;
+}
+.headline{
+    color: teal;
+    font-size: 40px;
+    text-align: center;
+}
+.zip{
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+#zip{
+    padding: 12px 22px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.how{
+    float: left;
+    padding: 20px 0px;
+    font-size: 30px;
+}
+.feel{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+.myInput{
+    padding: 12px 22px;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 60%;
+    height: 100px;
+}
+#generate{
+    height: 100px;
+    font-size: 22px;
+    background-color: inherit;
+    border: none;
+    border-radius: 10px;
+    outline-style: none;
+    cursor: pointer;
+    padding: 0px 30px;
+}
+#generate:hover{
+    background-color: rgb(252, 57, 23);
+    transition: .5s ease-in;
+}
+.title{
+    font-size: 22px;
+    padding: 20px;
+}
+#entryHolder .div{
+    padding: 20px;
+    font-size: 22px;
+}
+h3{
+    padding: 20px;
+}
